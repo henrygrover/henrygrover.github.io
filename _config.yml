@@ -2,7 +2,7 @@
 title: Uncreative IT blog title
 email: henry@hgrover.com
 description: > # this means to ignore newlines until "baseurl:"
-    My basic site, created using Jekyll and hosted on Github pages. I hope to add to it soon.
+    My name is Henry Grover. I'm currently a senior studying Business Information Technology at Virginia Tech.  I have been working in IT at a company called Devis since 2009.  This website will catalog anything interesting that I'm working on and want to document.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hgrover.com" # the base hostname & protocol for your site
 github_username:  henrygrover
